@@ -2689,5 +2689,6 @@ Disguy
 - [Chinmay Das](https://github.com/chinmaydas96)
 - [Swapnamoy Das](https://https://github.com/Swapnamoy951)
 - [Ruben Espinosa](https://github.com/rubenesp87)
+- [Uno-count](https://github.com/Uno-count)
 
 <!-- prettier-ignore-end -->
